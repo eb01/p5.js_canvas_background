@@ -1,0 +1,39 @@
+html, body {
+	font-family: 'Oswald', sans-serif;
+	padding: 0;
+	margin: 0;
+	background: #376463;
+	line-height: 1.5em;
+	font-size: 1.5em;
+	font-weight: 300;
+}
+
+a, a:visited, a:active {
+	color: #FFF;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#outer {
+	z-index: 99;
+	position: relative;
+}
+
+#content {
+	position: absolute;
+	left: 3%;
+	width: 60%;
+	margin: auto;
+	color: #FFF;
+}
+
+p {
+	font-size: 1.4rem;
+}
+
+.alt {
+	font-size: 1.2rem;
+}
