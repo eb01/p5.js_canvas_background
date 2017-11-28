@@ -7,5 +7,5 @@ p5.js est une bibliothèque pour l'élément HTML Canvas. Elle est basée sur un
 
 ## Liens :
 
-* [p5js.org] (https://p5js.org/ "Lien vers p5js.org")
-* [Web Design Magazine] (http://www.webdesignmag.fr/ "Lien vers Web Design Magazine")
+* p5js.org : https://p5js.org/
+* Web Design Magazine : http://www.webdesignmag.fr/
